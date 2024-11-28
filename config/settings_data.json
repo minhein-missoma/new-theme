@@ -1,9 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "show_style_guide": true,
-    "social_instagram_link": "https:\/\/www.instagram.com\/carpetright_uk\/",
-    "social_facebook_link": "https:\/\/www.facebook.com\/Carpetright\/",
-    "social_pinterest_link": "https:\/\/www.pinterest.co.uk\/carpetright\/",
+    "social_instagram_link": "https://www.instagram.com/carpetright_uk/",
+    "social_facebook_link": "https://www.facebook.com/Carpetright/",
+    "social_pinterest_link": "https://www.pinterest.co.uk/carpetright/",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -41,52 +50,41 @@
       },
       "temp-large-container": {
         "type": "temp-large-container",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-container": {
         "type": "temp-container",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-container-small": {
         "type": "temp-container-small",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-container-xs": {
         "type": "temp-container-xs",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-colours": {
         "type": "temp-colours",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-type": {
         "type": "temp-type",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-buttons": {
         "type": "temp-buttons",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-icons": {
         "type": "temp-icons",
-        "settings": {
-        }
+        "settings": {}
       },
       "temp-prose": {
         "type": "temp-prose",
-        "settings": {
-        }
+        "settings": {}
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   }
 }
